@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Story</string>
+    <string name="like">Like</string>
+    <string name="unlike">Unlike</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="user_id">USER_ID</string>
+    <string name="description">What was the unique thing about your stay there? Is it worth reliving it?</string>
+    <string name="upload">Tap to upload picture</string>
+    <string name="done">Done</string>
+    <string name="city">City:</string>
+    <string name="zero">0</string>
+</resources>
